@@ -5,9 +5,9 @@
 </p>
 
 ###  About Me
-I am a 16y/o from Germany that started coding with Tutorials in 2020.
+16 y/o german started in 2020 to learn java with yt tutorials because i was bored.
 
--  I’m currently working for **CherrySMP** (rip PxrlyJuice Network)
+-  I’m currently working for **CherrySMP**
 
 ---
 
